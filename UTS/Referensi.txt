@@ -1,0 +1,14 @@
+Nama : Yordan Marcelino Marcus
+Nim : 201011401468
+Kelas : 07TPLE005
+Matkul : Testing Dan QA Perangkat Lunak 
+
+Referensi : 
+
+- White-box testing – Wikipedia
+- What is White Box Testing? - Check Point SoftwareUnit
+- Testing | Software Testing - GeeksforGeeks
+- Is there a difference between white box testing and unit testing? (onpathtesting.com)
+- unittest — Unit testing framework — Python 3.12.0 documentation
+- Apa Itu CI/CD? IT Developer Harus Tau - Dicoding Blog
+- GitHub Actions documentation - GitHub Docs
